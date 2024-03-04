@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Color Unlit
-  m_Shader: {fileID: 4800000, guid: 2984432d6e4bf47fc968ad0668d19e53, type: 3}
+  m_Shader: {fileID: 4800000, guid: 8409605838db04a2abde6092e3e9cc0c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -85,7 +85,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Resolution: 1
+    - _Resolution: 1024
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
